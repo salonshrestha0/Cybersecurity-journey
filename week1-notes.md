@@ -2,12 +2,12 @@ week1 Notes-- Linux & Networking
 start date-- 2024 9/11
 Goal learning Linux basics + networking fundamental
 
-levels         commands                password
-level 0-1    ls ,cat                          6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
-level 1-2    ls,cat ./                        PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
-level2-3     ls,cat ./spaces\         7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
-level 3-4    ls -a, cat                      xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
-level 4-5    ls,cat, file ./*              6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+levels         commands                        password
+level 0-1      ls ,cat                          6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+level 1-2      ls,cat ./                        PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+level2-3       ls,cat ./spaces\         7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+level 3-4      ls -a, cat                      xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+level 4-5      ls,cat, file ./*              6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
 
 # OSI Model & TCP/IP
 
