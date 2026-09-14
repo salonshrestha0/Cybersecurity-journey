@@ -9,7 +9,7 @@ level2-3       ls,cat ./spaces\                 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
 level 3-4      ls -a, cat                       xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq          
 level 4-5      ls,cat, file ./*                 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG              
 
-# OSI Model & TCP/IP
+## OSI Model & TCP/IP
 
 ## OSI 7 Layers (Top to Bottom)
 7. Application - HTTP, DNS, FTP
